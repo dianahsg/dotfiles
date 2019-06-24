@@ -46,3 +46,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = feldman7777@gmail.com
+	name = Diana Feldman
